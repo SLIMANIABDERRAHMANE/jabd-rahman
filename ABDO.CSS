@@ -1,0 +1,35 @@
+h1{
+    border-style: solid;
+    border-width: 5px;
+    width : "30%";
+    padding : 20px;
+    background-color: grey;
+}
+
+div.ab{
+
+    border-style: solid;
+  border-width: 5px;
+  width: 20%;
+  padding: 20px;
+  font-size: 10px;
+}
+img.img{
+    border-radius: 50%;
+}
+div.d{
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 360px;
+    padding: 20px;
+    margin-top: -550px;
+    height: 500Px;
+
+}
+
+div.cl{
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    margin-top: 30px;
+}
