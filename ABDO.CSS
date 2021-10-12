@@ -1,9 +1,16 @@
+body{
+    background-color: bisque;
+
+}
 h1{
     border-style: solid;
     border-width: 5px;
     width : "30%";
     padding : 20px;
-    background-color: grey;
+    background-color:bisque;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: brown;
+  border-color: black;
 }
 
 div.ab{
@@ -21,9 +28,10 @@ div.d{
     border-style: solid;
     border-width: 5px;
     margin-left: 360px;
-    padding: 20px;
-    margin-top: -550px;
-    height: 500Px;
+    padding: 50px;
+    margin-top: -807px;
+    height: 700Px;
+    font-size: 30px;
 
 }
 
@@ -32,4 +40,11 @@ div.cl{
     border-width: 5px;
     padding: 20px;
     margin-top: 30px;
+}
+h2{
+    color: brown;
+    font-size: 20px;
+}
+p{
+    font-size: 15px
 }
